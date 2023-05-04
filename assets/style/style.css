@@ -16,12 +16,14 @@ body {
   font-family: sans-serif;
   background-color: #f9fbfd;
   display: flex;
+  justify-content: center;
 }
 
 .wrapper {
   padding-top: 30px;
   padding-left: 20px;
   padding-right: 20px;
+  width: 60%;
 }
 
 header {
@@ -49,6 +51,10 @@ header {
   width: 100%;
   background: #e7e9eb;
   height: 2px;
+}
+
+h2 {
+  text-align: center;
 }
 
 .card-body {
@@ -120,6 +126,10 @@ button[disabled] {
 }
 
 @media (max-width: 690px) {
+  .wrapper {
+    width: 90%;
+  }
+  
   .btn {
     font-size: 1rem;
     margin: 16px 0px 0px 0px;
