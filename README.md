@@ -28,20 +28,20 @@ This week's Challenge required me to create an application that an employee can 
 
 ## USAGE
 
-[Entrance](https://www.google.com)
-![Entrance_Example](image.jpg)
+[Entrance](https://raw.githubusercontent.com/FourStringFunk/cHarris_Password_Generator/main/assets/Images/EntranceExample.png)
+![Entrance_Example](https://raw.githubusercontent.com/FourStringFunk/cHarris_Password_Generator/main/assets/Images/EntranceExample.png)
 
 - **ON CLICK** a window prompt displays asking the user to define the length of their password. If the length is less than 8 or more than 128, they receive a prompt redirecting them to enter a new value within the defined range.
 
-[Prompt](https://www.google.com)
-![Prompt_Example](image.jpg)
+[Prompt](https://raw.githubusercontent.com/FourStringFunk/cHarris_Password_Generator/main/assets/Images/Prompt%20Example.png)
+![Prompt_Example](https://raw.githubusercontent.com/FourStringFunk/cHarris_Password_Generator/main/assets/Images/Prompt%20Example.png)
 
 - **ON OK** the user is then asked to define the alphanumeric and special character values they want to include in their password. If they don't select at least one, the prompts are reset.
 
 - **ON SUBMIT OF FINAL PROMPT** the randomly generated password is shown in the display box.
 
-[Password](https://www.google.com)
-![Password_Example](image.jpg)
+[Password](https://raw.githubusercontent.com/FourStringFunk/cHarris_Password_Generator/main/assets/Images/PasswordExample.png)
+![Password_Example](https://raw.githubusercontent.com/FourStringFunk/cHarris_Password_Generator/main/assets/Images/PasswordExample.png)
 
 ### GITHUB REPO
 - [GITHUB_REPO](https://github.com/FourStringFunk/cHarris_Password_Generator)
